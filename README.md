@@ -1,0 +1,1 @@
+Assignments for SJTU graduate course: CS7327,Neural Network Theory and Applications, 2023
